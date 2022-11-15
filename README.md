@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sudhanshu Shekhar
 #### Tech Consultant @PwC India
-!(https://www.linkedin.com/in/sudhanshu-shekhar-847211191/)
 
 
 Skills: Data Science/ Python/ SQL/ C++ / JS / HTML / CSS
